@@ -6,6 +6,7 @@
 * La classe Main/Gestore deve presentare un menu tramite il quale si realizza un semplice programma di calcolatrice tramite menu testuale. Devono essere presenti le operazioni di somma, sottrazione, prodotto, differenza, modulo. 
 * Ogni operazione deve essere realizzata tramite classe/metodo indipendente (decidete come)
 * Ogni componente del gruppo DEVE realizzare ALMENO un singolo metodo. Questo deve risultare dai log di git.
+* Il codice deve essere minimamente documentato tramite Javadoc, committata anche l'ipertesto generato in una cartella chiamata doc
 * Avete tempo sino a venerdì prossimo. Quando avete finito, mandatemi un messaggio su slack
 
  # Componenti gruppo (thanks to Random Org )
